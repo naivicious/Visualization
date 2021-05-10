@@ -1,0 +1,153 @@
+,shopname,num_comments,point_comments,phone_num,cost,food_type,district_name,location,area,time,service,delivery,takeout,lat,lng
+0,Havana Cafe,833,4 star rating,(718) 518-1800,Medium,Cuban、 Latin American,Schuylerville,3151 E Tremont Ave,Bronx,12:00 PM - 10:00 PM,Outdoor seating、Delivery、Takeout、Curbside pickup,True,True,40.8379,-73.83437
+1,Patricia’s,517,4 star rating,(718) 409-9069,Medium,Pizza、 Italian、 Bars,Morris Park,1082 Morris Park Ave,Bronx,12:00 PM - 11:00 PM,Sit-down dining,False,False,40.8491,-73.85329
+2,Travesias,537,4 star rating,(718) 828-3834,Medium,Latin American,Edgewater Park,3834 E Tremont Ave,Bronx,12:00 PM - 11:00 PM,Outdoor seating、Delivery、Takeout、Sit-down dining、Curbside pickup,True,True,33.8153,-94.548302
+3,F & J Pine Restaurant,562,3.5 star rating,(718) 792-5956,Medium,Italian、 Wine Bars、 Venues & Event Spaces,Van Nest,1913 Bronxdale Ave,Bronx,9:00 AM - 12:00 AM (Next day),Delivery、Takeout、Covered outdoor seating、Heated outdoor seating,True,True,40.84888,-73.86247
+4,City Island Lobster House,614,3.5 star rating,(718) 885-1459,High,Seafood,City Island,691 Bridge St,Bronx,11:30 AM - 12:00 AM (Next day),Outdoor seating、Delivery、Sit-down dining,True,False,40.8569,-73.79137
+5,Taqueria Tlaxcalli,645,4.5 star rating,(347) 851-3085,Medium,Mexican,Parkchester,2103 Starling Ave,Bronx,10:00 AM - 12:00 AM (Next day),Outdoor seating、Delivery、Takeout,True,True,33.8153,-94.548302
+6,The Original Crab Shanty Restaurant,769,3.5 star rating,(718) 885-1810,Medium,Seafood、 Italian、 American (Traditional),City Island,361 City Island Ave,Bronx,11:00 AM - 11:00 PM,Delivery、Takeout、Curbside pickup,True,True,40.84869,-73.78729
+7,Trattoria Zero Otto Nove,780,4 star rating,(718) 220-1027,Medium,Italian、 Pizza,Belmont,2357 Arthur Ave,Bronx,1:00 PM - 9:00 PM,Outdoor seating、Sit-down dining、Indoor dining,False,False,33.8153,-94.548302
+8,Made In Puerto Rico Latin Cuisine,331,3.5 star rating,(718) 684-1309,Medium,Cocktail Bars、 Puerto Rican、 Latin American,Schuylerville,3363 E Tremont Ave,Bronx,11:00 AM - 10:00 PM,Outdoor seating、Delivery、Takeout、Sit-down dining、Curbside pickup,True,True,40.83453,-73.829
+9,Liebman’s Kosher Delicatessen,288,4 star rating,(718) 548-4534,Medium,Delis、 Kosher,Spuyten Duyvil,552 W 235th St,Bronx,11:00 AM - 9:00 PM,Delivery、Takeout、Curbside pickup,True,True,40.88544,-73.90979
+10,Dallas BBQ,251,2.5 star rating,(718) 320-8800,Medium,Barbeque、 Salad、 Seafood,Co-op City,2160 Bartow Ave,Bronx,1:00 PM - 9:00 PM,Delivery、Takeout,True,True,40.86813,-73.82462
+11,Greek Express,229,4 star rating,(718) 601-4976,Medium,Greek,Riverdale,3733 Riverdale Ave,Bronx,12:00 PM - 10:00 PM,,False,False,37.14374,-89.123427
+12,Royal Coach Diner,203,3.5 star rating,(718) 653-1716,Medium,Diners、 American (Traditional)、 Latin American,Pelham Gardens,3260 Boston Rd,Bronx,10:00 AM - 9:00 PM,Delivery、Takeout、Curbside pickup,True,True,40.87257,-73.85401
+13,Cocina Chente,184,4 star rating,(347) 843-8081,Medium,Mexican、 Cocktail Bars,Riverdale,3535 Riverdale Ave,Bronx,12:00 PM - 1:00 AM (Next day),Delivery、Takeout,True,True,33.8153,-94.548302
+14,Brisas Del Caribe,178,3.5 star rating,(718) 794-9710,Low,Dominican,Unionport,1207 Castle Hill Ave,Bronx,Open 24 hours,,False,False,40.83212,-73.85129
+15,Yukka Latin Bistro,163,4 star rating,(347) 346-9338,Medium,Latin American、 Lounges,North Riverdale,5684 Riverdale Ave,Bronx,3:00 PM - 8:00 PM,Delivery、Takeout,True,True,33.23611,-87.53808
+16,Lash West Indian And American Cuisine,166,3.5 star rating,(718) 882-0815,Medium,Indian、 Caribbean、 American (Traditional),Pelham Gardens,800 Burke Ave,Bronx,12:00 AM - 12:00 AM (Next day),,False,False,33.8153,-94.548302
+17,Emilio’s of Morris Park,171,4 star rating,(718) 822-6758,Medium,Pizza、 Italian、 Salad,Morris Park,1051 Morris Park Ave,Bronx,11:00 AM - 11:00 PM,Delivery、Takeout,True,True,40.84912,-73.85467
+18,John & Joe’s Pizzeria,172,4 star rating,(718) 409-9776,Low,Pizza,Pelham Gardens,749 Lydig Ave,Bronx,11:00 AM - 12:00 AM (Next day),,False,False,33.8153,-94.548302
+19,The Black Whale,173,3.5 star rating,(718) 885-3657,Medium,American (New)、 Diners、 Breakfast & Brunch,City Island,279 City Island Ave,Bronx,"10:00 AM - 2:00 PM, 4:00 PM - 9:00 PM",Delivery、Takeout,True,True,40.84631,-73.78638
+20,Pasquale Rigoletto Restaurant,176,3.5 star rating,(718) 365-6644,Medium,Italian、 Venues & Event Spaces、 Caterers,Belmont,2311 Arthur Ave,Bronx,12:00 PM - 9:00 PM,Delivery,True,False,33.8153,-94.548302
+21,DeLillo Pastry Shop,177,3.5 star rating,(718) 367-8198,Medium,Bakeries、 Coffee & Tea、 Desserts,Belmont,606 E 187th St,Bronx,8:00 AM - 9:00 PM,Outdoor seating、Delivery、Takeout,True,True,40.85539,-73.88734
+22,Mexicocina,177,3.5 star rating,(347) 498-1055,Medium,Mexican,Mott Haven,503 Jackson Ave,Bronx,9:00 AM - 11:00 PM,,False,False,37.14374,-89.123427
+23,Estrellita Poblana IV,178,4 star rating,(718) 239-8290,Medium,Mexican,Westchester Square,45 Westchester Sq,Bronx,6:00 AM - 10:00 PM,Delivery、Takeout,True,True,37.14374,-89.123427
+24,San Gennaro Trattoria Restaurant Bar,178,4 star rating,(718) 562-0129,Medium,Italian、 Mediterranean,Belmont,2329 Arthur Ave,Bronx,11:00 AM - 9:00 PM,Outdoor seating、Delivery、Takeout,True,True,37.14374,-89.123427
+25,Metate,178,3 star rating,(718) 543-4444,Medium,Mexican,Riverdale,3515 Johnson Ave,Bronx,11:00 AM - 11:00 PM,Delivery、Takeout,True,True,33.8153,-94.548302
+26,El Malecon,179,3 star rating,(718) 432-4760,Medium,Latin American、 Caribbean、 Spanish,Kingsbridge,5592 Broadway,Bronx,12:00 PM - 8:00 PM,Delivery、Takeout、Curbside pickup,True,True,33.8153,-94.548302
+27,Palace of Japan,180,3.5 star rating,(718) 543-8833,Medium,Japanese、 Bars、 Sushi Bars,Spuyten Duyvil,3505 Johnson Ave,Bronx,12:30 PM - 10:00 PM,Delivery、Takeout,True,True,40.88622,-73.91003
+28,Olive Garden Italian Restaurant,181,2.5 star rating,(718) 931-1045,Medium,Italian、 Salad、 Soup,Co-op City,200 Baychester Ave,Bronx,11:00 AM - 10:00 PM,Outdoor seating、Delivery、Takeout、Sit-down dining、Curbside pickup,True,True,40.86431,-73.82779
+29,Suyo Gastrofusion,182,4.5 star rating,(718) 537-7896,Medium,Asian Fusion、 Latin American、 Cocktail Bars,High Bridge,1401 Plaza Dr,Bronx,1:00 PM - 11:00 PM,Outdoor seating、Delivery、Takeout、Covered outdoor seating、Sit-down dining、DIY meal kits、Heated outdoor seating、Indoor dining、Curbside pickup、Private dining,True,True,33.737801,-87.252502
+30,Paula’s Soul Cafe,182,3.5 star rating,(718) 655-1022,Medium,Seafood、 Soul Food,Edenwald,746 E 233rd St,Bronx,Open 24 hours,Delivery、Takeout,True,True,40.89267,-73.85567
+31,Casa Della Mozzarella Italian Deli,186,5 star rating,(718) 364-3867,Medium,Delis、 Cheese Shops,Belmont,604 E 187th St,Bronx,7:30 AM - 1:00 PM,Delivery、Takeout,True,True,40.85543,-73.88743
+32,Bella Notte,186,3.5 star rating,(718) 884-1666,Medium,Pizza、 Italian、 Bars,Riverdale,3524 Johnson Ave,Bronx,12:00 PM - 9:00 PM,,False,False,33.737801,-87.252502
+33,Red Lobster,187,2.5 star rating,(718) 671-4223,Medium,Seafood、 American (Traditional),Co-op City,2090 Bartow Ave,Bronx,11:30 AM - 9:30 PM,Drive-thru、Delivery、Takeout、Sit-down dining、Curbside pickup,True,True,40.86886,-73.82712
+34,Emilia’s Restaurant,188,3.5 star rating,(718) 367-5915,Medium,Italian,Belmont,2331 Arthur Ave,Bronx,12:00 PM - 11:00 PM,,False,False,33.8153,-94.548302
+35,Applebee’s Grill + Bar,189,1.5 star rating,(718) 320-4227,Medium,American (Traditional)、 Sports Bars、 Burgers,Co-op City,2276 Bartow Ave,Bronx,9:00 AM - 11:00 PM,Delivery、Takeout,True,True,40.86924,-73.825
+36,La Cocina Boricua,191,3.5 star rating,(347) 281-5375,Medium,Latin American、 Spanish、 Puerto Rican,Unionport,2245 B Westchester Ave,Bronx,1:00 PM - 10:00 PM,Takeout,False,True,44.80702,-74.42754
+37,Pio Pio 4,196,3.5 star rating,(718) 401-3300,Medium,Latin American、 Peruvian,Mott Haven,264 Cypress Ave,Bronx,11:00 AM - 9:00 PM,Delivery、Takeout,True,True,33.737801,-87.252502
+38,Tino’s Delicatessen,196,4 star rating,(718) 733-9879,Medium,Delis、 Cheese Shops,Belmont,2410 Arthur Ave,Bronx,6:30 AM - 7:30 PM,Delivery、Takeout、Curbside pickup,True,True,33.737801,-87.252502
+39,Sangria Cafe,203,3.5 star rating,(347) 843-6486,Medium,Latin American、 Soup、 Sandwiches,Co-op City,2085 Bartow Ave,Bronx,12:00 PM - 10:00 PM,,False,False,40.86973,-73.82774
+40,The Hill Bistro,207,4.5 star rating,(718) 708-7770,Medium,American (Traditional)、 Wine Bars,Riverdale,3541 Riverdale Ave,Bronx,"11:00 AM - 4:00 PM, 5:00 PM - 12:00 AM (Next day)",Outdoor seating、Delivery、Takeout、Sit-down dining,True,True,37.14374,-89.123427
+41,George’s Diner & Cafe,208,4 star rating,(718) 828-1170,Low,Diners,Westchester Square,2369 Westchester Ave,Bronx,5:00 AM - 11:00 PM,Delivery、Takeout,True,True,33.8153,-94.548302
+42,Bronx Drafthouse,212,4 star rating,(929) 265-9759,Medium,American (New)、 Beer Bar、 Sports Bars,Concourse Village,884 Gerard Ave,Bronx,11:30 AM - 2:00 AM (Next day),Delivery、Takeout,True,True,40.8275,-73.92491
+43,Hungry Bird,213,4.5 star rating,(917) 801-4900,Medium,Indian,Concourse,980 Morris Ave,Bronx,11:00 AM - 10:30 PM,Delivery、Takeout,True,True,40.82846,-73.91669
+44,Kingsbridge Social Club,214,4.5 star rating,(347) 346-5180,Medium,"Pizza、 Sandwiches、 Beer, Wine & Spirits",Kingsbridge,3625 Kingsbridge Ave,Bronx,11:30 AM - 10:00 PM,,False,False,33.8153,-94.548302
+45,Portofino Restaurant,217,3.5 star rating,(718) 885-1220,High,Italian、 Seafood,City Island,555 City Island Ave,Bronx,11:30 AM - 11:00 PM,Outdoor seating,False,False,40.85327,-73.79053
+46,Michaelangelo’s Little Italy,227,3.5 star rating,(718) 220-8355,Medium,Lounges、 Italian、 Wine Bars,Belmont,2477 Arthur Ave,Bronx,11:00 AM - 9:30 PM,Delivery、Takeout,True,True,37.14374,-89.123427
+47,Buffalo Wild Wings,229,2 star rating,(718) 549-9453,Medium,Sports Bars、 American (Traditional)、 Chicken Wings,Kingsbridge,193 W 237th St,Bronx,11:00 AM - 11:00 PM,,False,False,37.14374,-89.123427
+48,Outback Steakhouse,152,2.5 star rating,(347) 603-8556,Medium,Steakhouses,Co-op City,270 Baychester Ave,Bronx,11:00 AM - 10:00 PM,Outdoor seating、Delivery、Takeout、Sit-down dining、Curbside pickup、In-person visits,True,True,40.84636,-73.78587
+49,Gerbasi Ristorante,161,4 star rating,(718) 220-5735,Medium,Italian,Belmont,2389 Arthur Ave,Bronx,11:30 AM - 10:00 PM,Delivery,True,False,33.8153,-94.548302
+50,Estrellita Poblana III,162,4 star rating,(718) 220-7641,Medium,Mexican,Belmont,2328 Arthur Ave,Bronx,10:00 AM - 11:00 PM,Delivery、Takeout,True,True,33.737801,-87.252502
+51,S&S Cheesecake,184,4.5 star rating,(718) 549-3888,Medium,Desserts、 Bakeries、 Kosher,Kingsbridge,222 W 238th St,Bronx,6:00 AM - 3:00 PM,,False,False,37.14374,-89.123427
+52,Jake’s Steakhouse - Bronx,236,4 star rating,(718) 581-0182,High,Steakhouses,Fieldston,6031 Broadway,Bronx,11:30 AM - 10:00 PM,,False,False,32.64833,-97.07702
+53,Mike’s Deli Arthur Avenue,236,4 star rating,(718) 295-5033,Medium,Caterers、 Delis、 Pasta Shops,Belmont,2344 Arthur Ave,Bronx,7:00 AM - 6:00 PM,Delivery、Takeout、Curbside pickup,True,True,33.8153,-94.548302
+54,Kai Sushi Asian Fusion,246,4 star rating,(718) 863-7900,Medium,Asian Fusion、 Chinese、 Japanese,Westchester Square,1475 Williamsbridge Rd,Bronx,11:00 AM - 10:00 PM,Delivery、Takeout,True,True,33.8153,-94.548302
+55,Yo-Burger,247,4 star rating,(718) 708-6828,Medium,Burgers、 Vegetarian,Riverdale,3726 Riverdale Ave,Bronx,11:00 AM - 10:00 PM,Takeout,False,True,33.737801,-87.252502
+56,Shangerila Restaurant,251,3 star rating,(718) 828-6080,Medium,Sushi Bars、 Buffets、 Seafood,Pelham Bay,2893 Buhre Ave,Bronx,11:30 AM - 10:00 PM,Delivery、Takeout,True,True,33.8153,-94.548302
+57,Roberto’s,260,4 star rating,(718) 733-9503,High,Italian,Belmont,603 Crescent Ave,Bronx,"12:00 PM - 2:30 PM, 5:00 PM - 10:00 PM",Delivery,True,False,33.737801,-87.252502
+58,Arties Steak & Seafood,265,4 star rating,(718) 885-9885,Medium,Seafood、 Steakhouses、 Italian,City Island,394 City Island Ave,Bronx,11:30 AM - 10:30 PM,,False,False,40.84963,-73.78708
+59,Enzos of Arthur Avenue,272,3.5 star rating,(718) 733-4455,Medium,Italian、 Pizza,Belmont,2339 Arthur Ave,Bronx,11:30 AM - 10:00 PM,Outdoor seating,False,False,33.737801,-87.252502
+60,Estrellita Poblana,272,4 star rating,(718) 518-7425,Medium,Mexican,Unionport,2231 Westchester Ave,Bronx,9:00 AM - 12:00 AM (Next day),Delivery、Takeout、Curbside pickup,True,True,40.83447,-73.8509
+61,Sabrosura Restaurant,273,3.5 star rating,(718) 597-1344,Medium,Chinese、 Latin American、 Seafood,Unionport,1200 Castle Hill Ave,Bronx,11:30 AM - 8:00 PM,Delivery、Takeout、Curbside pickup,True,True,40.83209,-73.85071
+62,Full Moon Pizzeria,286,4 star rating,(718) 584-3451,Low,Pizza、 Italian、 Wraps,Belmont,600 E 187th St,Bronx,11:00 AM - 10:00 PM,Delivery、Takeout、Curbside pickup,True,True,40.85534,-73.88755
+63,Salvatores of Soho,294,4 star rating,(718) 548-7499,Medium,Pizza、 Italian,Riverdale,3738 Riverdale Ave,Bronx,11:00 AM - 9:30 PM,Delivery、Takeout,True,True,33.737801,-87.252502
+64,Seafood City,296,3 star rating,(718) 885-3600,Medium,Seafood,City Island,459 City Island Ave,Bronx,11:00 AM - 12:00 AM (Next day),Delivery、Takeout、Curbside pickup,True,True,40.8505,-73.78842
+65,Crosstown Diner,298,3 star rating,(718) 597-3450,Medium,Diners、 Breakfast & Brunch、 American (Traditional),Schuylerville,2880 Bruckner Blvd,Bronx,6:00 AM - 12:00 AM (Next day),Delivery、Takeout、Curbside pickup,True,True,33.737801,-87.252502
+66,Tin Marin,305,4 star rating,(718) 884-4800,Medium,Tapas/Small Plates,Riverdale,3708 Riverdale Ave,Bronx,2:00 PM - 11:00 PM,Outdoor seating、Takeout、Sit-down dining、Curbside pickup,False,True,33.8153,-94.548302
+67,Leche Y Miel Restaurant,307,4 star rating,(718) 708-5787,Medium,Comfort Food、 Dominican、 Juice Bars & Smoothies,Kingsbridge,5761 Broadway,Bronx,11:00 AM - 7:00 PM,Delivery、Takeout,True,True,33.8153,-94.548302
+68,Beatstro,328,4 star rating,(718) 489-9397,Medium,American (Traditional)、 Speakeasies、 Latin American,Mott Haven,135 Alexander Ave,Bronx,3:00 PM - 10:45 PM,Outdoor seating、Delivery、Takeout、Sit-down dining,True,True,33.737801,-87.252502
+69,Jimmy’s Grand Cafe,329,3.5 star rating,(718) 319-1200,Medium,Diners,Castle Hill,1001 Castle Hill Ave,Bronx,7:00 AM - 1:00 AM (Next day),Delivery、Takeout,True,True,37.14374,-89.123427
+70,Ceetay,333,4 star rating,(718) 618-7020,Medium,Sushi Bars、 Asian Fusion、 Thai,Mott Haven,129 Alexander Ave,Bronx,11:00 AM - 10:00 PM,Delivery、Takeout,True,True,33.737801,-87.252502
+71,Giovanni,342,2.5 star rating,(718) 402-6996,Medium,Italian、 Pizza,Concourse Village,579 Grand Concourse,Bronx,10:00 AM - 12:00 AM (Next day),Delivery、Takeout、Curbside pickup,True,True,40.81942,-73.92723
+72,Sea Shore Restaurant & Marina,372,3 star rating,(718) 885-0300,High,Seafood,City Island,591 City Island Ave,Bronx,11:30 AM - 12:00 AM (Next day),Delivery、Takeout、Curbside pickup,True,True,40.85417,-73.7909
+73,Ajo & Oregano,405,3.5 star rating,(347) 657-1201,Medium,Dominican,Parkchester,1556 White Plains Rd,Bronx,11:30 AM - 8:00 PM,,False,False,33.8153,-94.548302
+74,La Masa,445,4 star rating,(718) 822-8400,Medium,Colombian、 Empanadas,Morris Park,1000 Morris Park Ave,Bronx,8:30 AM - 10:00 PM,Outdoor seating、Delivery、Takeout、Covered outdoor seating、Sit-down dining、Heated outdoor seating,True,True,40.84798,-73.85585
+75,Tosca Cafe,464,3 star rating,(718) 239-3300,High,Pizza、 Italian、 Cafes,Throgs Neck,4038 E Tremont Ave,Bronx,11:00 AM - 1:00 AM (Next day),Delivery,True,False,40.81958,-73.81761
+76,Bronx Alehouse,815,4 star rating,(718) 601-0204,Medium,American (Traditional)、 Pubs,Kingsbridge,216 W 238th St,Bronx,11:00 AM - 10:00 PM,,False,False,37.14374,-89.123427
+77,Antonio’s Trattoria,830,4.5 star rating,(718) 733-6630,Medium,Italian、 Pizza、 Desserts,Belmont,2370 Belmont Ave,Bronx,11:30 AM - 9:00 PM,Delivery、Takeout、Sit-down dining、Indoor dining,True,True,33.737801,-87.252502
+78,Joe’s Italian Deli,132,5 star rating,(718) 367-7979,Medium,Delis、 Cheese Shops,Belmont,685 E 187th St,Bronx,8:30 AM - 5:30 PM,,False,False,40.85441,-73.88512
+79,Estrellita Poblana II,124,3.5 star rating,(718) 654-7652,Medium,Mexican,Pelham Gardens,2819 White Plains Rd,Bronx,10:00 AM - 12:00 AM (Next day),Delivery、Takeout,True,True,41.02987,-73.75031
+80,Tommy’s Pizza,125,4 star rating,(718) 829-2828,Low,Pizza,Edgewater Park,4033 E Tremont Ave,Bronx,10:00 AM - 12:00 AM (Next day),Delivery,True,False,33.737801,-87.252502
+81,Sabrosura 2,129,4 star rating,(718) 502-9878,Medium,Spanish、 Chinese,Soundview,1808 Westchester Ave,Bronx,11:30 AM - 10:00 PM,Delivery、Takeout、Curbside pickup,True,True,33.8153,-94.548302
+82,Lexa Bar & Garden,129,4 star rating,(929) 243-3300,Medium,Burgers、 Beer Bar、 Pizza,Norwood,357 E 204th St,Bronx,5:00 PM - 1:00 AM (Next day),,False,False,33.737801,-87.252502
+83,Seis Vecinos Restaurant,129,3.5 star rating,(718) 684-8604,Medium,Latin American、 Mexican、 Honduran,Longwood,640 Prospect Ave,Bronx,9:00 AM - 12:00 AM (Next day),,False,False,33.737801,-87.252502
+84,Don Pancho’s,130,3.5 star rating,(718) 585-5855,Medium,Steakhouses,Mott Haven,43 Bruckner Blvd,Bronx,4:00 PM - 11:00 PM,Delivery、Takeout,True,True,37.14374,-89.123427
+85,An Beal Bocht Cafe,132,4 star rating,(718) 884-7127,Medium,Irish、 Pubs,Riverdale,445 W 238th St,Bronx,10:00 AM - 4:00 AM (Next day),Outdoor seating、Takeout、Sit-down dining,False,True,33.8153,-94.548302
+86,Brewski’s,116,3.5 star rating,(718) 684-2900,Medium,Bars、 American (New),Schuylerville,3718 E Tremont Ave,Bronx,11:00 AM - 3:00 AM (Next day),Outdoor seating、Delivery、Takeout、Curbside pickup,True,True,40.82646,-73.82228
+87,Shanghai Red Asian Latin Bistro,106,3.5 star rating,(718) 684-6262,Medium,Asian Fusion、 Cocktail Bars,Westchester Square,127 Westchester Sq,Bronx,12:00 PM - 9:30 PM,Outdoor seating、Delivery、Takeout、Curbside pickup,True,True,33.737801,-87.252502
+88,Santa Fe Grill & Bar,94,3.5 star rating,(718) 796-5095,Medium,Mexican、 Bars,Fieldston,6025 Broadway,Bronx,11:30 AM - 11:00 PM,Delivery、Takeout,True,True,42.93495,-87.87889
+89,Madisons Restaurant & Bar,83,3.5 star rating,(718) 543-3850,Medium,Bars、 Italian,North Riverdale,5686 Riverdale Ave,Bronx,11:30 AM - 10:00 PM,Delivery,True,False,33.23611,-87.53808
+90,Agra Grill,78,4 star rating,(347) 346-5228,Medium,Indian,Williamsbridge,3835 White Plains Rd,Bronx,11:30 AM - 10:00 PM,Delivery、Takeout,True,True,41.02987,-73.75031
+91,Cea-Lo Cafe,79,3.5 star rating,(718) 620-0337,Medium,Soul Food、 Seafood,Soundview,1003 Soundview Ave,Bronx,11:00 AM - 9:00 PM,Takeout,False,True,33.737801,-87.252502
+92,The Healthy Kitchen,87,4 star rating,(347) 694-5083,Medium,Salad、 Wraps、 Juice Bars & Smoothies,Morris Park,1135C Morris Park Ave,Bronx,10:00 AM - 9:00 PM,Outdoor seating、Delivery、Takeout、Covered outdoor seating、Sit-down dining、DIY meal kits、Heated outdoor seating、Indoor dining、Curbside pickup、Private dining,True,True,40.85029,-73.8518
+93,Ikko Hibachi Sushi Asian Bistro,88,4.5 star rating,(347) 621-5052,Unknown,,Edgewater Park,3938 E Tremont Ave,Bronx,12:30 PM - 10:00 PM,,False,False,33.8153,-94.548302
+94,Fratelli,88,4 star rating,(718) 547-2489,Medium,Italian、 Seafood,Pelham Gardens,2507 Eastchester Rd,Bronx,11:30 AM - 9:00 PM,Delivery、Takeout,True,True,33.737801,-87.252502
+95,Tokyo House,87,4.5 star rating,(718) 601-6877,Medium,Japanese,North Riverdale,5648 Riverdale Ave,Bronx,11:00 AM - 10:30 PM,Delivery、Takeout,True,True,33.23611,-87.53808
+96,Marisco Centro,89,2.5 star rating,(718) 665-8686,Medium,Spanish、 Bars、 Seafood,Concourse Village,610 Exterior St,Bronx,10:00 AM - 12:00 AM (Next day),Delivery、Takeout,True,True,40.82413,-73.92989
+97,Fine Food Cuisine,88,4 star rating,(718) 822-1991,Medium,American (New),West Farms,671 Morris Park Ave,Bronx,11:00 AM - 12:00 AM (Next day),Delivery、Takeout、Curbside pickup,True,True,40.84521,-73.86707
+98,IHOP,89,2.5 star rating,(718) 860-4467,Medium,Breakfast & Brunch、 American (Traditional)、 Burgers,Claremont Village,961 East 174th St,Bronx,7:00 AM - 6:00 PM,,False,False,40.83675,-73.88534
+99,Blue Bay Restaurant,79,2.5 star rating,(718) 884-6476,Medium,Diners、 American (Traditional),Riverdale,3533 Johnson Ave,Bronx,6:00 AM - 10:30 PM,Delivery、Takeout,True,True,33.8153,-94.548302
+100,Novelty Eats,79,4 star rating,(718) 684-6180,Medium,Comfort Food、 American (New),Pelham Bay,1765 Crosby Ave,Bronx,11:00 AM - 10:00 PM,Delivery、Takeout,True,True,37.14374,-89.123427
+101,Ajo y Oregano,80,3 star rating,(347) 918-9638,Medium,Dominican,Belmont,621 Crescent Ave,Bronx,12:30 PM - 9:00 PM,Outdoor seating、Delivery、Takeout、Sit-down dining、Curbside pickup,True,True,37.14374,-89.123427
+102,Tasty Picks,81,4 star rating,(718) 231-2230,Low,Juice Bars & Smoothies、 Salad、 Delis,Norwood,89 East Gunhill Rd,Bronx,Open 24 hours,Delivery、Takeout,True,True,40.88158,-73.87936
+103,Boca Restaurant and Lounge,81,3 star rating,(917) 688-1031,Medium,Lounges、 Spanish,Belmont,2458 Webster Ave,Bronx,12:00 PM - 12:00 AM (Next day),Delivery、Takeout,True,True,43.20385,-77.49231
+104,Evo Cocktail Lounge & Restaurant,81,3 star rating,(718) 822-9274,Medium,Cocktail Bars、 American (Traditional)、 Latin American,Unionport,1306 Unionport Rd,Bronx,4:00 PM - 1:00 AM (Next day),Delivery、Takeout、Curbside pickup,True,True,40.83406,-73.85338
+105,The Last Stop,84,5 star rating,(347) 449-6679,Medium,Bars、 American (Traditional)、 Indian,Kingsbridge,5977 Broadway,Bronx,3:00 PM - 11:15 PM,Delivery,True,False,33.737801,-87.252502
+106,Lin’s Asian Cuisine,84,3.5 star rating,(718) 822-6888,Medium,Chinese、 Sushi Bars、 Asian Fusion,Parkchester,1506 Bronxdale Ave,Bronx,11:00 AM - 10:30 PM,Delivery、Takeout,True,True,33.737801,-87.252502
+107,Kiraku Sushi,84,3.5 star rating,(718) 379-8866,Medium,Sushi Bars、 Japanese,Morris Park,1948 Williamsbridge Rd,Bronx,11:00 AM - 10:00 PM,,False,False,40.85346,-73.8535
+108,Sam’s Soul Food Restaurant Bar & Lounge,84,3.5 star rating,(718) 665-5341,Medium,Soul Food、 Lounges,Concourse Village,596-598 Grand Concourse,Bronx,7:00 AM - 12:00 PM,Delivery、Takeout,True,True,40.81979,-73.92649
+109,Pizza Studio,85,4.5 star rating,(718) 215-6820,Low,Pizza,Belmont,444 E. Fordham Rd.,Bronx,11:00 AM - 10:00 PM,Delivery、Takeout,True,True,40.85674,-73.89339
+110,Mama Puebla,85,3.5 star rating,(718) 792-6262,Medium,Mexican,Schuylerville,3465 E Tremont Ave,Bronx,11:00 AM - 11:00 PM,Delivery、Takeout,True,True,40.83199,-73.82701
+111,ÇKA KA QËLLU,86,4.5 star rating,(718) 933-6194,Medium,Modern European,Belmont,2321 Hughes Ave,Bronx,11:00 AM - 10:00 PM,Delivery、Takeout、Curbside pickup,True,True,33.8153,-94.548302
+112,Crosby Pizza Stop,86,4 star rating,(718) 823-8980,Low,Pizza,Pelham Bay,1731 Crosby Ave,Bronx,10:30 AM - 9:00 PM,Delivery、Takeout、Curbside pickup,True,True,33.737801,-87.252502
+113,Curry & Kebab,91,4 star rating,(718) 231-5370,Medium,Halal、 Indian,Norwood,3111 Bainbridge Ave,Bronx,11:00 AM - 10:00 PM,Delivery、Takeout,True,True,33.737801,-87.252502
+114,Court Deli,92,3.5 star rating,(718) 993-1380,Medium,Delis、 Desserts、 Breakfast & Brunch,Concourse Village,96 E 161st St,Bronx,6:00 AM - 9:00 PM,Delivery、Takeout,True,True,40.82705,-73.92447
+115,Riverdale Indian Cuisine,92,4 star rating,(718) 684-6228,Unknown,,Kingsbridge,308 W 231 St,Bronx,11:00 AM - 10:00 PM,Outdoor seating、Delivery、Takeout、Sit-down dining、Curbside pickup,True,True,37.14374,-89.123427
+116,Richie Rich Carribean,93,3 star rating,(718) 708-8431,Medium,Caribbean,Baychester,3357 Fish Ave,Bronx,6:00 AM - 5:30 AM (Next day),Delivery、Takeout,True,True,40.87547,-73.84986
+117,Arthur Ave Fiasco,93,4.5 star rating,(718) 618-0806,Medium,Italian、 Seafood、 Pizza,Belmont,2376 Arthur Ave,Bronx,"12:00 PM - 3:30 PM, 5:00 PM - 9:00 PM",Outdoor seating、Delivery、Takeout、Sit-down dining,True,True,33.737801,-87.252502
+118,Sushi Q Japanese Restaurant,93,3.5 star rating,(718) 822-1627,Medium,Sushi Bars、 Japanese,Country Club,1610 Crosby Ave,Bronx,11:15 AM - 9:45 PM,,False,False,29.92136,-95.09545
+119,Domino’s Pizza,93,1 star rating,(718) 537-4700,Low,Pizza、 Chicken Wings、 Sandwiches,Claremont Village,1351 Webster Ave,Bronx,10:00 AM - 2:00 AM (Next day),,False,False,40.83536,-73.90805
+120,Molino Rojo Restaurant,95,2.5 star rating,(718) 538-9642,Low,Latin American,Concourse Village,101 E 161st St,Bronx,6:00 AM - 12:00 AM (Next day),Delivery、Takeout,True,True,40.82772,-73.9243
+121,Addeo’s Riverdale Pizzeria,96,3.5 star rating,(718) 549-4750,Low,Pizza、 Italian,North Riverdale,5654 Riverdale Ave,Bronx,11:00 AM - 10:00 PM,Outdoor seating、Delivery、Takeout、Sit-down dining、Curbside pickup,True,True,33.23611,-87.53808
+122,Healthy Fresh,96,4 star rating,(718) 684-6411,Low,Breakfast & Brunch、 Sandwiches,Morris Park,1033 Morris Park Ave,Bronx,6:00 AM - 9:00 PM,Delivery、Takeout,True,True,40.84878,-73.85524
+123,Bedford Cafe & Restaurant,97,3 star rating,(718) 365-3446,Medium,American (Traditional)、 Cafes,Bedford Park,1 Bedford Park Blvd E,Bronx,6:00 AM - 5:30 AM (Next day),Delivery、Takeout,True,True,33.8153,-94.548302
+124,Blackstone Bar & Grill,97,4 star rating,(347) 346-6004,Medium,Sports Bars、 Burgers、 Sandwiches,Riverdale,3713 Riverdale Ave,Bronx,11:30 AM - 3:00 AM (Next day),Delivery、Takeout,True,True,33.737801,-87.252502
+125,The Wicked Wolf,97,4 star rating,(718) 829-4400,Medium,Italian、 German、 Seafood,Edgewater Park,4029 E Tremont Ave,Bronx,11:30 AM - 10:00 PM,Delivery、Takeout、Curbside pickup,True,True,33.8153,-94.548302
+126,Queen Of Tacos,98,3.5 star rating,(718) 652-1253,Low,Mexican,Norwood,9 E Mosholu Pkwy N,Bronx,10:00 AM - 12:00 AM (Next day),,False,False,37.14374,-89.123427
+127,Smashburger,98,3.5 star rating,(718) 618-4229,Medium,Burgers,Kingsbridge,193 W 237th St,Bronx,10:30 AM - 10:00 PM,Delivery、Takeout、Curbside pickup,True,True,37.14374,-89.123427
+128,Tiny’s Diner,99,3 star rating,(718) 708-7600,Medium,Diners,Riverdale,3603 Riverdale Ave,Bronx,7:00 AM - 9:00 PM,Delivery、Takeout,True,True,33.8153,-94.548302
+129,El Nuevo Bohio Lechonera,99,3.5 star rating,(718) 294-3905,Medium,Spanish、 Puerto Rican、 Breakfast & Brunch,East Tremont,791 E Tremont Ave,Bronx,7:00 AM - 8:30 PM,Takeout,False,True,40.84407,-73.88804
+130,MangiPasta,99,4.5 star rating,Unknown,Medium,Italian,Unknown,608 E 187th St,Bronx,12:00 PM - 9:00 PM,Curbside pickup,False,False,37.14374,-89.123427
+131,Da Franco & Tony Ristorante,100,4.5 star rating,(718) 684-2815,Medium,Italian,Country Club,2815 Middletown Rd,Bronx,12:00 PM - 10:00 PM,Outdoor seating、Delivery、Takeout、Curbside pickup,True,True,39.45457,-75.71958
+132,Xochimilco Family Restaurant,102,4.5 star rating,(718) 402-5400,Medium,Mexican,Melrose,653 Melrose Ave,Bronx,9:00 AM - 12:00 AM (Next day),Delivery、Takeout,True,True,40.81885,-73.91697
+133,Riverdale Pie Guys,103,3.5 star rating,(718) 708-6128,Medium,Pizza、 Italian,North Riverdale,5784 Mosholu Ave,Bronx,11:30 AM - 10:00 PM,Delivery、Takeout,True,True,33.23611,-87.53808
+134,Frank’s Pizzeria,104,4.5 star rating,(718) 597-3333,Low,Pizza、 Salad、 Italian,Country Club,2823 Middletown Rd,Bronx,10:00 AM - 11:00 PM,Delivery、Takeout,True,True,39.45457,-75.71958
+135,Feroza’s,105,4 star rating,(718) 405-9081,Low,Trinidadian,Pelham Gardens,716 Burke Ave,Bronx,11:00 AM - 9:00 PM,,False,False,37.14374,-89.123427
+136,Cinco De Mayo,106,3.5 star rating,(718) 676-9444,Low,Mexican,Melrose,837 Washington Ave,Bronx,11:00 AM - 9:00 PM,Delivery、Takeout、Curbside pickup,True,True,40.74063,-74.00735
+137,Mangia’s Brick Oven Pizza and Pasta,106,3.5 star rating,(718) 597-4992,Low,Pizza,Pelham Bay,1760 Crosby Ave,Bronx,10:00 AM - 10:00 PM,Delivery、Takeout、Curbside pickup,True,True,33.8153,-94.548302
+138,Escape Latino,107,4 star rating,(718) 684-1860,Medium,Latin American、 Wine Bars,Pelham Bay,1841 Hobart Ave,Bronx,2:30 PM - 10:30 PM,Delivery、Takeout,True,True,33.8153,-94.548302
+139,Moon Star Grill,109,4 star rating,(718) 432-2570,Medium,Asian Fusion、 Vietnamese,Riverdale,3519-25 Johnson Ave,Bronx,11:30 AM - 10:00 PM,Delivery、Takeout,True,True,40.74462,-73.92961
+140,Flame,110,4 star rating,(718) 884-2828,Unknown,,Kingsbridge,5740 Broadway,Bronx,12:00 PM - 10:00 PM,Outdoor seating、Delivery、Takeout、Sit-down dining,True,True,33.737801,-87.252502
+141,Ellie’s Diner,109,3 star rating,(718) 239-9870,Medium,Diners,Parkchester,58 Metropolitan Oval,Bronx,7:00 AM - 8:00 PM,Delivery、Takeout,True,True,40.83734,-73.85998
+142,Muscle Maker Grill,110,4 star rating,(718) 822-6991,Medium,American (New),Throgs Neck,4041 E Tremont Ave,Bronx,11:00 AM - 10:00 PM,Delivery、Takeout,True,True,40.81949,-73.81711
+143,Patsy’s Pizzeria,112,3 star rating,(718) 676-2527,Medium,Italian、 Pizza,Morris Park,980 Morris Park Ave,Bronx,11:00 AM - 10:00 PM,Delivery、Takeout,True,True,40.84767,-73.85652
+144,Icehouse Cafe Waterfront Restaurant,117,3.5 star rating,(718) 863-5580,Medium,Italian、 Seafood、 Venues & Event Spaces,Throgs Neck,140 Reynolds Ave,Bronx,12:00 PM - 9:00 PM,,False,False,40.81667,-73.80706
+145,Step In Restaurant,117,3.5 star rating,(718) 822-0562,Medium,Lounges、 American (Traditional),Parkchester,1309 Metropolitan Ave,Bronx,11:00 AM - 2:00 AM (Next day),Delivery,True,False,33.8153,-94.548302
+146,Vistamar,117,3.5 star rating,(718) 709-0888,High,Seafood、 Latin American、 Venues & Event Spaces,City Island,565 City Island Ave,Bronx,2:00 PM - 10:00 PM,Outdoor seating、Delivery、Takeout、Covered outdoor seating、DIY meal kits、Heated outdoor seating、Indoor dining,True,True,40.85373,-73.79083
+147,G-Bar,118,3 star rating,(718) 402-6996,Medium,Lounges、 Italian,Concourse Village,575 Grand Concourse,Bronx,11:00 AM - 12:00 AM (Next day),,False,False,40.8194,-73.92724
+148,Louie’s Dale Diner,119,3.5 star rating,(718) 549-4445,Medium,Diners、 Breakfast & Brunch、 Burgers,Kingsbridge,189 W 231st St,Bronx,Open 24 hours,Outdoor seating、Delivery、Takeout,True,True,33.8153,-94.548302
+149,The Barbecue Pit,119,3.5 star rating,(718) 514-7317,Medium,Barbeque、 Comfort Food、 Seafood,North Riverdale,5788 Mosholu Ave,Bronx,12:00 PM - 10:00 PM,Delivery、Takeout,True,True,33.23611,-87.53808
+150,Milk Burger,120,4 star rating,(212) 360-1988,Medium,Burgers、 Salad,Mott Haven,148 Bruckner Blvd,Bronx,11:00 AM - 8:00 PM,Takeout,False,True,33.8153,-94.548302
+151,Flavas International Grill,132,4 star rating,(718) 292-2900,Medium,Caribbean、 Soul Food、 Juice Bars & Smoothies,Concourse Village,854 Gerard Ave,Bronx,11:00 AM - 9:00 PM,Delivery、Takeout,True,True,40.82686,-73.92507
