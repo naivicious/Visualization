@@ -1,0 +1,652 @@
+{
+    "RECORDS": [
+        {
+            "district_name": "Astoria",
+            "COUNT(district_name)": "52"
+        },
+        {
+            "district_name": "Williamsburg - North Side",
+            "COUNT(district_name)": "28"
+        },
+        {
+            "district_name": "Belmont",
+            "COUNT(district_name)": "21"
+        },
+        {
+            "district_name": "Midtown West",
+            "COUNT(district_name)": "20"
+        },
+        {
+            "district_name": "Park Slope",
+            "COUNT(district_name)": "19"
+        },
+        {
+            "district_name": "Williamsburg - South Side",
+            "COUNT(district_name)": "17"
+        },
+        {
+            "district_name": "Downtown Flushing",
+            "COUNT(district_name)": "16"
+        },
+        {
+            "district_name": "East Village",
+            "COUNT(district_name)": "15"
+        },
+        {
+            "district_name": "West Village",
+            "COUNT(district_name)": "14"
+        },
+        {
+            "district_name": "Riverdale",
+            "COUNT(district_name)": "13"
+        },
+        {
+            "district_name": "Flatiron",
+            "COUNT(district_name)": "13"
+        },
+        {
+            "district_name": "Forest Hills",
+            "COUNT(district_name)": "12"
+        },
+        {
+            "district_name": "Elmhurst",
+            "COUNT(district_name)": "12"
+        },
+        {
+            "district_name": "Cobble Hill",
+            "COUNT(district_name)": "11"
+        },
+        {
+            "district_name": "Prospect Heights",
+            "COUNT(district_name)": "11"
+        },
+        {
+            "district_name": "Theater District",
+            "COUNT(district_name)": "11"
+        },
+        {
+            "district_name": "Bayside",
+            "COUNT(district_name)": "11"
+        },
+        {
+            "district_name": "Kingsbridge",
+            "COUNT(district_name)": "10"
+        },
+        {
+            "district_name": "East Williamsburg",
+            "COUNT(district_name)": "10"
+        },
+        {
+            "district_name": "Lower East Side",
+            "COUNT(district_name)": "10"
+        },
+        {
+            "district_name": "Chinatown",
+            "COUNT(district_name)": "10"
+        },
+        {
+            "district_name": "Greenwich Village",
+            "COUNT(district_name)": "10"
+        },
+        {
+            "district_name": "Koreatown",
+            "COUNT(district_name)": "10"
+        },
+        {
+            "district_name": "Hunters Point",
+            "COUNT(district_name)": "10"
+        },
+        {
+            "district_name": "City Island",
+            "COUNT(district_name)": "8"
+        },
+        {
+            "district_name": "Concourse Village",
+            "COUNT(district_name)": "8"
+        },
+        {
+            "district_name": "New Dorp",
+            "COUNT(district_name)": "8"
+        },
+        {
+            "district_name": "West Brighton",
+            "COUNT(district_name)": "8"
+        },
+        {
+            "district_name": "Midtown East",
+            "COUNT(district_name)": "8"
+        },
+        {
+            "district_name": "DUMBO",
+            "COUNT(district_name)": "7"
+        },
+        {
+            "district_name": "Heartland Village",
+            "COUNT(district_name)": "7"
+        },
+        {
+            "district_name": "Upper West Side",
+            "COUNT(district_name)": "7"
+        },
+        {
+            "district_name": "Auburndale",
+            "COUNT(district_name)": "7"
+        },
+        {
+            "district_name": "Woodside",
+            "COUNT(district_name)": "7"
+        },
+        {
+            "district_name": "Morris Park",
+            "COUNT(district_name)": "6"
+        },
+        {
+            "district_name": "Pelham Gardens",
+            "COUNT(district_name)": "6"
+        },
+        {
+            "district_name": "North Riverdale",
+            "COUNT(district_name)": "6"
+        },
+        {
+            "district_name": "Mott Haven",
+            "COUNT(district_name)": "6"
+        },
+        {
+            "district_name": "Boerum Hill",
+            "COUNT(district_name)": "6"
+        },
+        {
+            "district_name": "Grant City",
+            "COUNT(district_name)": "6"
+        },
+        {
+            "district_name": "Great Kills",
+            "COUNT(district_name)": "6"
+        },
+        {
+            "district_name": "Upper East Side",
+            "COUNT(district_name)": "6"
+        },
+        {
+            "district_name": "Schuylerville",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Parkchester",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Unionport",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Pelham Bay",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Unknown",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Crown Heights",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Greenpoint",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Downtown Brooklyn",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Flatbush",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Westerleigh",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Dongan Hills",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Chelsea",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Nolita",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "SoHo",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Meatpacking District",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Union Square",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Murray Hill",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Jackson Heights",
+            "COUNT(district_name)": "5"
+        },
+        {
+            "district_name": "Edgewater Park",
+            "COUNT(district_name)": "4"
+        },
+        {
+            "district_name": "Westchester Square",
+            "COUNT(district_name)": "4"
+        },
+        {
+            "district_name": "Co-op City",
+            "COUNT(district_name)": "4"
+        },
+        {
+            "district_name": "Norwood",
+            "COUNT(district_name)": "4"
+        },
+        {
+            "district_name": "Bay Ridge",
+            "COUNT(district_name)": "4"
+        },
+        {
+            "district_name": "Gowanus",
+            "COUNT(district_name)": "4"
+        },
+        {
+            "district_name": "Fort Greene",
+            "COUNT(district_name)": "4"
+        },
+        {
+            "district_name": "Stapleton",
+            "COUNT(district_name)": "4"
+        },
+        {
+            "district_name": "Throgs Neck",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Country Club",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "South Williamsburg",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Bedford Stuyvesant",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "South Slope",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Carroll Gardens",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Red Hook",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Bushwick",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Sunset Park",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Sheepshead Bay",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Shore Acres",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Clifton",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Annadale",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Tottenville",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Hell's Kitchen",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Harlem",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Douglaston",
+            "COUNT(district_name)": "3"
+        },
+        {
+            "district_name": "Spuyten Duyvil",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Fieldston",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Soundview",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Claremont Village",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Melrose",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Midwood",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Bath Beach",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Clinton Hill",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Bensonhurst",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Brooklyn Heights",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Borough Park",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Elm Park",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Charleston",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Old Town",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Grasmere",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Graniteville",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Todt Hill",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "St. George",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Bullshead",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Tompkinsville",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Little Italy",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Gramercy",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Financial District",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "TriBeCa",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Queensborough Hill",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Kew Gardens",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Fresh Meadows",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Maspeth",
+            "COUNT(district_name)": "2"
+        },
+        {
+            "district_name": "Van Nest",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "High Bridge",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Edenwald",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Concourse",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Castle Hill",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Longwood",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Williamsbridge",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "West Farms",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Baychester",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Bedford Park",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "East Tremont",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Prospect Lefferts Gardens",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "East Flatbush",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Coney Island",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Gravesend",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Columbia Street Waterfront District",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Fort Hamilton",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Vinegar Hill",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Brighton Beach",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Arden Heights",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Rossville",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Rosebank",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Silver Lake",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Randall Manor",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Kips Bay",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Manhattan Valley",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "South Village",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Alphabet City",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Hillcrest",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Floral Park",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Bay Terrace",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Beechurst",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "North Corona",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Lindenwood",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Rochdale",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Long Island City",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Corona",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "College Point",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Sunnyside",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Seaside",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Flushing",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Ozone Park",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Hollis",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Oakland Gardens",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Rego Park",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Middle Village",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Richmond Hill",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Howard Beach",
+            "COUNT(district_name)": "1"
+        },
+        {
+            "district_name": "Astoria Heights",
+            "COUNT(district_name)": "1"
+        }
+    ]
+}
