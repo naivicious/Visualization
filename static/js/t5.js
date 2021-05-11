@@ -9,7 +9,8 @@ t5_option = {
         y: 'center',
         textStyle: {
             fontWeight: 'normal',
-            fontSize: 16
+            fontSize: 16,
+            color: '#fff',
         }
     },
     tooltip: {
